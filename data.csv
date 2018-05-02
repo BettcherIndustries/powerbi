@@ -1,0 +1,25 @@
+﻿Date,CategoryDescription,Gross Shipped(USD),Net Shipped(USD),Level3Description
+2018-01-02 00:00:00,Disposable,$23168,$20876,Exsurco
+2018-01-02 00:00:00,Equipment,$27384,$27344,Bettcher
+2018-01-02 00:00:00,Parts,$117705,$111306,Bettcher
+2018-01-02 00:00:00,Parts,$45407,$44649,Gainco
+2018-01-02 00:00:00,Service,$0,$0,Bettcher
+2018-01-03 00:00:00,Disposable,$12792,$10539,Exsurco
+2018-01-03 00:00:00,Equipment,$28337,$28337,Bettcher
+2018-01-03 00:00:00,Parts,$219900,$210531,Bettcher
+2018-01-03 00:00:00,Parts,$41550,$30007,Bettcher Switzerland
+2018-01-03 00:00:00,Parts,$57875,$56267,Gainco
+2018-01-03 00:00:00,Service,$336,$336,Bettcher
+2018-01-04 00:00:00,Disposable,$856,$671,Exsurco
+2018-01-04 00:00:00,Equipment,$25570,$24112,Bettcher
+2018-01-04 00:00:00,Parts,$130874,$116529,Bettcher
+2018-01-04 00:00:00,Parts,$13327,$9601,Bettcher Switzerland
+2018-01-04 00:00:00,Parts,$26233,$26162,Gainco
+2018-01-04 00:00:00,Service,$656,$656,Bettcher Switzerland
+2018-01-05 00:00:00,Equipment,$37287,$31895,Bettcher
+2018-01-05 00:00:00,Equipment,$2710,$2710,Gainco
+2018-01-05 00:00:00,Parts,$141386,$137014,Bettcher
+2018-01-05 00:00:00,Parts,$16818,$12314,Bettcher Switzerland
+2018-01-05 00:00:00,Parts,$22938,$22683,Gainco
+2018-01-05 00:00:00,Service,$205,$205,Bettcher
+2018-01-05 00:00:00,Service,$97,$97,Bettcher Switzerland
